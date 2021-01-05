@@ -532,12 +532,16 @@ footer{
 
 
 @media screen and (max-width: 800px) {
-	.formasty{
+.slika1{
+	width:100%;
+	height:auto;
+}
+.formasty{
 
 	width:90%;
 }
 
-	.slika22{
+.slika22{
 		width:90%;
 		margin-top:10px;
 		margin-left:25px;
